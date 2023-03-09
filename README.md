@@ -5,4 +5,4 @@ All R scripts written by APS
 
 [![DOI](https://zenodo.org/badge/243090952.svg)](https://zenodo.org/badge/latestdoi/243090952)
 
-Full paper now on bioRxiv: Potential evolutionary body size reduction in a Malagasy primate (Propithecus verreauxi) in response to human size-selective hunting pressure (https://www.biorxiv.org/content/10.1101/2020.03.23.004234v2)
+Publication in American Journal of Biological Anthropology: Potential evolutionary body size reduction in a Malagasy primate (Propithecus verreauxi) in response to human size-selective hunting pressure (https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.24470)
